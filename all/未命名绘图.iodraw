@@ -11,7 +11,7 @@
           <mxGeometry x="1100" y="-30" width="660" height="1430" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-89" value="" style="group" vertex="1" connectable="0" parent="wRkQnvLODTd-rqW9k2Or-86">
-          <mxGeometry x="16.999999999999545" y="50" width="590" height="1349" as="geometry" />
+          <mxGeometry x="69.99999999999955" y="40.5" width="590" height="1349" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-5" value="接收Demand management预测数据" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
           <mxGeometry x="16" y="112" width="217" height="66" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-8" value="制定scenario方案及行动计划" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
-          <mxGeometry x="330" y="620" width="248" height="66" as="geometry" />
+          <mxGeometry x="299" y="620" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-9" target="wRkQnvLODTd-rqW9k2Or-13">
           <mxGeometry relative="1" as="geometry" />
