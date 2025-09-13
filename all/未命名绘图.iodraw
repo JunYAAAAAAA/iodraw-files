@@ -52,11 +52,14 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-13" value="评审供应scenario方案及行动计划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="512" y="910" width="248" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wRkQnvLODTd-rqW9k2Or-14" target="wRkQnvLODTd-rqW9k2Or-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-14" value="供应计划及方案是否需要调整" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="514.5" y="1040" width="241" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-15" value="制定新的行动计划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1040" width="260" height="49" as="geometry" />
+          <mxGeometry x="840" y="1060" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-16" value="确定最终MPP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="577.5" y="1290" width="153" height="49" as="geometry" />
