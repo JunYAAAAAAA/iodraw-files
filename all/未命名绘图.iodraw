@@ -185,6 +185,9 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-117" value="主计划根现有产能分析是否满足预测需求" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
           <mxGeometry x="94" y="403" width="250" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-118" value="主计划根现有产能分析是否满足预测需求" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
+          <mxGeometry x="94" y="550" width="250" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
