@@ -55,6 +55,9 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wRkQnvLODTd-rqW9k2Or-14" target="wRkQnvLODTd-rqW9k2Or-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wRkQnvLODTd-rqW9k2Or-14" target="wRkQnvLODTd-rqW9k2Or-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-14" value="供应计划及方案是否需要调整" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="514.5" y="1040" width="241" height="120" as="geometry" />
         </mxCell>
