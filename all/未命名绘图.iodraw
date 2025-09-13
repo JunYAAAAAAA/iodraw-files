@@ -58,9 +58,6 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-11" value="分析产能, 人员, 供应与需求的匹配情况" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
           <mxGeometry x="15.457627118644067" y="352.1304670126019" width="212.54237288135593" height="66.02446256486286" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;arcSize=19;fontSize=15;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-12" target="wRkQnvLODTd-rqW9k2Or-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;arcSize=19;fontSize=15;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-12" target="wRkQnvLODTd-rqW9k2Or-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
