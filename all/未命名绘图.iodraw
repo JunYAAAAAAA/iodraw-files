@@ -34,11 +34,14 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-11" value="分析产能, 人员, 供应与需求的匹配情况" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="526" y="382" width="220" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wRkQnvLODTd-rqW9k2Or-12" target="wRkQnvLODTd-rqW9k2Or-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-12" value="Pre-meeting对Senario方案达成一致" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="512" y="650" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-13" value="评审供应scenario方案及行动计划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="512" y="1103" width="248" height="66" as="geometry" />
+          <mxGeometry x="512" y="780" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-14" value="供应计划及方案是否需要调" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="514" y="1220" width="241" height="241" as="geometry" />
