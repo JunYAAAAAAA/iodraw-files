@@ -188,6 +188,9 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-118" value="组织相关部门对不满足需求部分制定senario" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
           <mxGeometry x="94" y="550" width="250" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-119" value="组织相关部门对不满足需求部分制定senario" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
+          <mxGeometry x="94" y="660" width="250" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
