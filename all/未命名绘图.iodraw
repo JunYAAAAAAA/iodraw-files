@@ -194,6 +194,9 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-120" value="Scenario方法包括:加班，提前生产，提升产能(缩短模块老化时间/招聘新员工/第三方人员)等方案组合" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
           <mxGeometry x="86" y="920" width="320" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-121" value="Scenario方法包括:加班，提前生产，提升产能(缩短模块老化时间/招聘新员工/第三方人员)等方案组合" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
+          <mxGeometry x="90" y="1340" width="320" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
