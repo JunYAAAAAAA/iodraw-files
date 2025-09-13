@@ -26,7 +26,7 @@
           <mxGeometry x="840" y="650" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-9" value="组织MPP/SIOP3并准备会议文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="973" width="250" height="66" as="geometry" />
+          <mxGeometry x="800" y="950" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-10" value="发布给相关职能部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="533" y="1766" width="204" height="49" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="512" y="650" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-13" value="评审供应scenario方案及行动计划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="512" y="780" width="248" height="66" as="geometry" />
+          <mxGeometry x="512" y="740" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-14" value="供应计划及方案是否需要调" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="514" y="1220" width="241" height="241" as="geometry" />
@@ -65,11 +65,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wRkQnvLODTd-rqW9k2Or-11" target="wRkQnvLODTd-rqW9k2Or-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wRkQnvLODTd-rqW9k2Or-13" target="wRkQnvLODTd-rqW9k2Or-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
