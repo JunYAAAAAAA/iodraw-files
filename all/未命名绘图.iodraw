@@ -37,15 +37,15 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;arcSize=19;fontSize=15;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-7" target="wRkQnvLODTd-rqW9k2Or-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-102" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wRkQnvLODTd-rqW9k2Or-33">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-102" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="wRkQnvLODTd-rqW9k2Or-33">
           <mxGeometry x="-0.1248" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-7" target="wRkQnvLODTd-rqW9k2Or-8">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-7" target="wRkQnvLODTd-rqW9k2Or-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-101" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wRkQnvLODTd-rqW9k2Or-100">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-101" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="wRkQnvLODTd-rqW9k2Or-100">
           <mxGeometry x="0.0785" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
