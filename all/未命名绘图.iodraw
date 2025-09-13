@@ -1,14 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="TkQ-cLtNLKqsfUfCY53W">
-    <mxGraphModel dx="4090" dy="3582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4917" dy="3582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="wRkQnvLODTd-rqW9k2Or-70" value="外格" parent="0" />
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-73" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="1020" y="-40" width="730" height="1550" as="geometry">
-            <mxRectangle x="1020" y="-40" width="80" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-5" value="接收Demand management预测数据" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
           <mxGeometry x="2725.9999999999995" y="112" width="217" height="66" as="geometry" />
         </mxCell>
@@ -94,6 +89,18 @@
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-15" value="制定新的行动计划" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
           <mxGeometry x="3039.9999999999995" y="1030" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-79" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
+          <mxGeometry x="260.00000000000045" y="-270" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-80" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-79">
+          <mxGeometry y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-81" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-79">
+          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-82" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-79">
+          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
         </mxCell>
         <mxCell id="1" parent="0" />
       </root>
