@@ -25,8 +25,11 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-8" value="制定scenario方案及行动计划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="650" width="248" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wRkQnvLODTd-rqW9k2Or-9" target="wRkQnvLODTd-rqW9k2Or-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-9" value="组织MPP/SIOP3并准备会议文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="515.5" y="770" width="250" height="66" as="geometry" />
+          <mxGeometry x="510" y="770" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-10" value="发布给相关职能部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="1646" width="204" height="49" as="geometry" />
