@@ -40,6 +40,11 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-7" target="wRkQnvLODTd-rqW9k2Or-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-101" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wRkQnvLODTd-rqW9k2Or-100">
+          <mxGeometry x="0.0785" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-7" value="预测是否满足" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
           <mxGeometry x="51.686440677966104" y="500.18532246108225" width="140.08474576271186" height="70.02594514455151" as="geometry" />
         </mxCell>
