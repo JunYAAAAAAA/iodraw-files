@@ -29,7 +29,7 @@
           <mxGeometry x="515.5" y="770" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-10" value="发布给相关职能部门" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="533" y="1766" width="204" height="49" as="geometry" />
+          <mxGeometry x="537.5" y="1646" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-11" value="分析产能, 人员, 供应与需求的匹配情况" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="526" y="382" width="220" height="66" as="geometry" />
@@ -44,16 +44,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-13" value="评审供应scenario方案及行动计划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="512" y="1030" width="248" height="66" as="geometry" />
+          <mxGeometry x="516.5" y="910" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-14" value="供应计划及方案是否需要调整" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="515.5" y="1160" width="241" height="120" as="geometry" />
+          <mxGeometry x="520" y="1040" width="241" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-15" value="制定新的行动计划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="555" y="1330" width="188" height="49" as="geometry" />
+          <mxGeometry x="559.5" y="1210" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-16" value="确定最终MPP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="573" y="1410" width="153" height="49" as="geometry" />
+          <mxGeometry x="577.5" y="1290" width="153" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="wRkQnvLODTd-rqW9k2Or-5" target="wRkQnvLODTd-rqW9k2Or-6">
           <mxGeometry relative="1" as="geometry">
