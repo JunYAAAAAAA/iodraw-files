@@ -192,7 +192,7 @@
           <mxGeometry x="86" y="790" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-120" value="包含交付，库存，FAT，需求变化分析，供应计划的scenario方案，交付风险及应对计划，行动计划跟进" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
-          <mxGeometry x="78" y="910" width="320" height="60" as="geometry" />
+          <mxGeometry x="86" y="920" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1" parent="0" />
       </root>
