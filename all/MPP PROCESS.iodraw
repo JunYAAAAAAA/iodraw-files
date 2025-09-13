@@ -141,7 +141,7 @@
           <mxGeometry x="13" y="680" width="184" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-106" value="主计划" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=21;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-85">
-          <mxGeometry x="60" y="800.0000000000002" width="80" height="30" as="geometry" />
+          <mxGeometry x="70" y="796.0000000000002" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-107" value="主计划，前端，PlantGM及工厂相关职能部门" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=21;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-85">
           <mxGeometry x="9.5" y="1060" width="200" height="79" as="geometry" />
