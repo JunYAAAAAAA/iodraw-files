@@ -47,7 +47,7 @@
           <mxGeometry x="512" y="770" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-14" value="供应计划及方案是否需要调" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="514" y="1220" width="241" height="241" as="geometry" />
+          <mxGeometry x="514" y="890" width="241" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-15" value="制定新的行动计划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="542" y="1550" width="188" height="49" as="geometry" />
