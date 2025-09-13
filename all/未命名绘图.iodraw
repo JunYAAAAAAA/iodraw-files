@@ -17,7 +17,7 @@
           <mxGeometry x="557" y="258" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-7" value="预测是否满足" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="563.5" y="530" width="145" height="145" as="geometry" />
+          <mxGeometry x="563.5" y="530" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-8" value="制定scenario方案及行动计划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="531" y="716" width="248" height="66" as="geometry" />
