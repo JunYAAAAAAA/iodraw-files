@@ -37,6 +37,9 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wRkQnvLODTd-rqW9k2Or-12" target="wRkQnvLODTd-rqW9k2Or-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wRkQnvLODTd-rqW9k2Or-12" target="wRkQnvLODTd-rqW9k2Or-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-12" value="Pre-meeting对Senario方案达成一致" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="512" y="650" width="248" height="66" as="geometry" />
         </mxCell>
