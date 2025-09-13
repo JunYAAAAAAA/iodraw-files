@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="TkQ-cLtNLKqsfUfCY53W">
-    <mxGraphModel dx="2029" dy="1861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="979" dy="1326" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="wRkQnvLODTd-rqW9k2Or-70" value="外格" parent="0" />
@@ -99,7 +99,7 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;arcSize=19;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-31" target="wRkQnvLODTd-rqW9k2Or-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-31" value="开始" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;arcSize=19;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-31" value="开始" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;arcSize=19;strokeWidth=1.9685;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
           <mxGeometry x="62.313559322033896" width="115.9322033898305" height="60.022238695329875" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-15" value="制定新的行动计划" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;arcSize=19;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
