@@ -4,92 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="wRkQnvLODTd-rqW9k2Or-70" value="外格" parent="0" />
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-5" value="接收Demand management预测数据" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="2725.9999999999995" y="112" width="217" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-6" value="分析需求变化" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="2756.9999999999995" y="228" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-7" target="wRkQnvLODTd-rqW9k2Or-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-7" value="预测是否满足" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="2763.4999999999995" y="500" width="145" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-8" value="制定scenario方案及行动计划" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="3039.9999999999995" y="620" width="248" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-9" target="wRkQnvLODTd-rqW9k2Or-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-9" value="组织MPP/SIOP3并准备会议文件" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="2709.9999999999995" y="740" width="250" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-10" value="发布给相关职能部门" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="2732.9999999999995" y="1300" width="204" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-11" value="分析产能, 人员, 供应与需求的匹配情况" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="2725.9999999999995" y="352" width="220" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-12" target="wRkQnvLODTd-rqW9k2Or-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-12" target="wRkQnvLODTd-rqW9k2Or-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-12" value="Pre-meeting对Senario方案达成一致" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="2711.9999999999995" y="620" width="248" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-13" target="wRkQnvLODTd-rqW9k2Or-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-13" value="评审供应scenario方案及行动计划" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="2711.9999999999995" y="880" width="248" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-14" target="wRkQnvLODTd-rqW9k2Or-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-14" target="wRkQnvLODTd-rqW9k2Or-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-14" value="供应计划及方案是否需要调整" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="2714.4999999999995" y="1010" width="241" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-15" target="wRkQnvLODTd-rqW9k2Or-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-16" target="wRkQnvLODTd-rqW9k2Or-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-16" value="确定最终MPP" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="2758.4999999999995" y="1190" width="153" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-5" target="wRkQnvLODTd-rqW9k2Or-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-6" target="wRkQnvLODTd-rqW9k2Or-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2834.9999999999995" y="327" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-11" target="wRkQnvLODTd-rqW9k2Or-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-70" source="wRkQnvLODTd-rqW9k2Or-31" target="wRkQnvLODTd-rqW9k2Or-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-31" value="开始" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="2774.4999999999995" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-15" value="制定新的行动计划" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="3039.9999999999995" y="1030" width="260" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-85" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
           <mxGeometry x="1020" y="-30" width="200" height="1430" as="geometry" />
         </mxCell>
@@ -101,6 +15,95 @@
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-88" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
           <mxGeometry x="1940" y="-30" width="520" height="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-89" value="" style="group" vertex="1" connectable="0" parent="wRkQnvLODTd-rqW9k2Or-70">
+          <mxGeometry x="2709.9999999999995" width="590" height="1349" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-5" value="接收Demand management预测数据" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry x="16" y="112" width="217" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-6" value="分析需求变化" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry x="47" y="228" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-7" target="wRkQnvLODTd-rqW9k2Or-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-7" value="预测是否满足" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry x="53.5" y="500" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-8" value="制定scenario方案及行动计划" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry x="330" y="620" width="248" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-9" target="wRkQnvLODTd-rqW9k2Or-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-9" value="组织MPP/SIOP3并准备会议文件" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry y="740" width="250" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-10" value="发布给相关职能部门" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry x="23" y="1300" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-11" value="分析产能, 人员, 供应与需求的匹配情况" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry x="16" y="352" width="220" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-12" target="wRkQnvLODTd-rqW9k2Or-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-12" target="wRkQnvLODTd-rqW9k2Or-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-12" value="Pre-meeting对Senario方案达成一致" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry x="2" y="620" width="248" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-13" target="wRkQnvLODTd-rqW9k2Or-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-13" value="评审供应scenario方案及行动计划" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry x="2" y="880" width="248" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-14" target="wRkQnvLODTd-rqW9k2Or-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-14" target="wRkQnvLODTd-rqW9k2Or-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-14" value="供应计划及方案是否需要调整" style="rhombus;strokeWidth=2;whiteSpace=wrap;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry x="4.5" y="1010" width="241" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-15" target="wRkQnvLODTd-rqW9k2Or-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-16" target="wRkQnvLODTd-rqW9k2Or-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-16" value="确定最终MPP" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry x="48.5" y="1190" width="153" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-5" target="wRkQnvLODTd-rqW9k2Or-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-6" target="wRkQnvLODTd-rqW9k2Or-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="125" y="327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-11" target="wRkQnvLODTd-rqW9k2Or-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="wRkQnvLODTd-rqW9k2Or-89" source="wRkQnvLODTd-rqW9k2Or-31" target="wRkQnvLODTd-rqW9k2Or-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-31" value="开始" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry x="64.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-15" value="制定新的行动计划" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-89">
+          <mxGeometry x="330" y="1030" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1" parent="0" />
       </root>
