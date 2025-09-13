@@ -10,6 +10,9 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-93" value="主计划" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-85">
           <mxGeometry x="70" y="170.05000000000018" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-96" value="主计划" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-85">
+          <mxGeometry x="70" y="277.5900000000002" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-86" value="" style="swimlane;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
           <mxGeometry x="1100" y="-30" width="640" height="1430" as="geometry" />
         </mxCell>
@@ -115,7 +118,7 @@
           <mxGeometry x="1940" y="-30" width="520" height="1430" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-95" value="P:\工业系统\供应链\供应链对外文件\7.原材料采购\18.FG forecast\SIOP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
-          <mxGeometry x="90" y="170.05" width="328" height="76.95" as="geometry" />
+          <mxGeometry x="94" y="146.58" width="328" height="76.95" as="geometry" />
         </mxCell>
         <mxCell id="1" parent="0" />
       </root>
