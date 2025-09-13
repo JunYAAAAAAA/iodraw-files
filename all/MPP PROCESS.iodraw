@@ -155,46 +155,46 @@
         <mxCell id="wRkQnvLODTd-rqW9k2Or-87" value="时间" style="swimlane;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
           <mxGeometry x="1740" y="-30" width="200" height="1430" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-94" value="每月W2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-87">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-94" value="每月W2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-87">
           <mxGeometry x="62" y="170.05000000000018" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-110" value="每月W2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-87">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-110" value="每月W2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-87">
           <mxGeometry x="62" y="268.08000000000015" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-111" value="每月W2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-87">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-111" value="每月W2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-87">
           <mxGeometry x="60" y="413.0000000000001" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-112" value="每月W2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-87">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-112" value="每月W2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-87">
           <mxGeometry x="60" y="560.0000000000001" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-114" value="每月W2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-87">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-114" value="每月W2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-87">
           <mxGeometry x="62" y="670.0000000000001" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-115" value="每月W3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-87">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-115" value="每月W3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-87">
           <mxGeometry x="62" y="800.0000000000001" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-88" value="要求与记录" style="swimlane;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
           <mxGeometry x="1940" y="-30" width="520" height="1430" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-95" value="P:\工业系统\供应链\供应链对外文件\7.原材料采购\18.FG forecast\SIOP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-95" value="P:\工业系统\供应链\供应链对外文件\7.原材料采购\18.FG forecast\SIOP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
           <mxGeometry x="94" y="146.58" width="328" height="76.95" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-116" value="分析当月需求与上版需求的交化及比例，历史及未来柜型趋势。同时highlight重点项目变化" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-116" value="分析当月需求与上版需求的交化及比例，历史及未来柜型趋势。同时highlight重点项目变化" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;arcSize=19;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
           <mxGeometry x="90" y="250.12" width="328" height="76.95" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-117" value="主计划根现有产能分析是否满足预测需求" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-117" value="主计划根现有产能分析是否满足预测需求" style="text;whiteSpace=wrap;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
           <mxGeometry x="94" y="414" width="296" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-118" value="组织相关部门对不满足需求部分制定senario" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-118" value="组织相关部门对不满足需求部分制定senario" style="text;whiteSpace=wrap;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
           <mxGeometry x="94" y="560" width="296" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-119" value="包含交付，库存，FAT，需求变化分析，供应计划的scenario方案，交付风险及应对计划，行动计划跟进" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-119" value="包含交付，库存，FAT，需求变化分析，供应计划的scenario方案，交付风险及应对计划，行动计划跟进" style="text;whiteSpace=wrap;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
           <mxGeometry x="86" y="790" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-120" value="Scenario方法包括:加班，提前生产，提升产能(缩短模块老化时间/招聘新员工/第三方人员)等方案组合" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-120" value="Scenario方法包括:加班，提前生产，提升产能(缩短模块老化时间/招聘新员工/第三方人员)等方案组合" style="text;whiteSpace=wrap;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
           <mxGeometry x="86" y="920" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wRkQnvLODTd-rqW9k2Or-121" value="MPP计划发布" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
+        <mxCell id="wRkQnvLODTd-rqW9k2Or-121" value="MPP计划发布" style="text;whiteSpace=wrap;fontSize=17;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-88">
           <mxGeometry x="170" y="1350" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1" parent="0" />
