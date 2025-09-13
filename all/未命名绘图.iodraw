@@ -97,10 +97,10 @@
           <mxGeometry x="1310" y="-30" width="430" height="1430" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-87" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="1740" y="-30" width="200" height="200" as="geometry" />
+          <mxGeometry x="1740" y="-30" width="200" height="1430" as="geometry" />
         </mxCell>
         <mxCell id="wRkQnvLODTd-rqW9k2Or-88" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="wRkQnvLODTd-rqW9k2Or-70">
-          <mxGeometry x="1940" y="-30" width="200" height="200" as="geometry" />
+          <mxGeometry x="1940" y="-30" width="520" height="1430" as="geometry" />
         </mxCell>
         <mxCell id="1" parent="0" />
       </root>
