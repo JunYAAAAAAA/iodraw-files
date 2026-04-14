@@ -7,8 +7,8 @@
         <mxCell id="5gZ1XJIf1q77IZmE-Pfn-1" value="变更单&lt;div&gt;（邮件、变更单、teams、微信）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5gZ1XJIf1q77IZmE-Pfn-2" value="登记表记录&lt;div&gt;1.变更来源&lt;/div&gt;&lt;div&gt;2.变更信息：WBS\MO\物料号&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="5gZ1XJIf1q77IZmE-Pfn-2" value="登记表记录&lt;div&gt;1.变更来源&lt;/div&gt;&lt;div&gt;2.变更信息：WBS\MO\物料号\增加删除数量及特殊备注&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5gZ1XJIf1q77IZmE-Pfn-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
