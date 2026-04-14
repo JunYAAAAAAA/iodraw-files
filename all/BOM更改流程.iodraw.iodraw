@@ -4,11 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5gZ1XJIf1q77IZmE-Pfn-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5gZ1XJIf1q77IZmE-Pfn-1" target="5gZ1XJIf1q77IZmE-Pfn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5gZ1XJIf1q77IZmE-Pfn-1" value="变更单&lt;div&gt;（邮件、变更单、teams、微信）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5gZ1XJIf1q77IZmE-Pfn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5gZ1XJIf1q77IZmE-Pfn-2" target="5gZ1XJIf1q77IZmE-Pfn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5gZ1XJIf1q77IZmE-Pfn-2" value="登记表记录&lt;div&gt;1.变更来源&lt;/div&gt;&lt;div&gt;2.变更信息：WBS\MO\物料号\增加删除数量及特殊备注&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="200" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gZ1XJIf1q77IZmE-Pfn-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5gZ1XJIf1q77IZmE-Pfn-3" target="5gZ1XJIf1q77IZmE-Pfn-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5gZ1XJIf1q77IZmE-Pfn-3" value="SAP更改操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
@@ -23,7 +32,7 @@
           <mxGeometry x="220" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5gZ1XJIf1q77IZmE-Pfn-6" value="1.完成相应trace更改&lt;div&gt;2.完成相应MO增加、删除&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="435" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
